@@ -1,12 +1,11 @@
 import React, { Component } from 'react'
-import { ScrollView,  KeyboardAvoidingView,ImageBackground,
+import {
   View,
   FlatList,
-  ActivityIndicator,
   Image,
   TouchableOpacity } from 'react-native'
   import {widthPercentageToDP as wp, heightPercentageToDP as hp} from 'react-native-responsive-screen';
-import {Header,Left,Body,Right,Container,Content,Footer, Text,Button, Icon} from 'native-base'
+import {Header,Left,Body,Right,Container,Content, Text,Button} from 'native-base'
 import { connect } from 'react-redux'
 // Add Actions - replace 'Your' with whatever your reducer is called :)
 // import YourActions from '../Redux/YourRedux'
@@ -125,10 +124,10 @@ class ClothsScreen extends Component {
 
 
     return (
-      <Container>
-      <Header>
+      <Container style={{flex:1}}>
+      {/* <Header>
         <Left style={{flex:1}}> 
-          <TouchableOpacity style={{width:wp('10%'),height:hp('4%')}} onPress={()=>this.props.navigation.navigate('HomeScreen')}>
+          <TouchableOpacity style={{width:wp('10%'),height:hp('4%')}} onPress={()=>this.props.navigation.navigate('TabsScreen')}>
             <Image style={{width:hp('2%'),height: hp('3%')}} source={require('../Images/back.psd')} />
           </TouchableOpacity>        
           
@@ -145,9 +144,9 @@ class ClothsScreen extends Component {
             </Text>
           </Button>
         </Right>
-      </Header>
-      <Content style={{flex:1,backgroundColor:'#F5F5F5'}}>
-        <View style={{flexDirection:'row',backgroundColor:'#F5F5F5',margin:10}}>
+      </Header> */}
+      
+        {/* <View style={{flexDirection:'row',backgroundColor:'#F5F5F5',margin:10}}>
         <Button full style={{flex:1,borderWidth:2,backgroundColor:this.state.buttonColorm, borderColor:'black',justifyContent:'center',borderRadius:10,marginRight:2}}
           onPress={this.summer}>
             <Text style={{color:this.state.textColorm}}>Summer</Text>
@@ -157,7 +156,7 @@ class ClothsScreen extends Component {
             <Text style={{color:this.state.textColorw}}>Winter</Text>
           </Button>
 
-        </View>
+        </View> */}
          <View style={styles.MainContainer}>
         <FlatList
           data={this.state.DISHES}
@@ -175,7 +174,7 @@ class ClothsScreen extends Component {
           keyExtractor={(item, index) => index.toString()}
         />
       </View>
-      </Content>
+      
     </Container>
     )
   }

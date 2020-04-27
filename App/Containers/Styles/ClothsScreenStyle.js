@@ -7,6 +7,7 @@ export default StyleSheet.create({
     justifyContent: 'center',
     flex: 1,
     paddingTop: hp('2%'),
+    backgroundColor:'#F5F5F5'
   },
   imageThumbnail: {
     justifyContent: 'center',

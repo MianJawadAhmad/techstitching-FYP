@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
-import { ScrollView,  KeyboardAvoidingView,ImageBackground } from 'react-native'
+import { ScrollView,  KeyboardAvoidingView,ImageBackground,View,Image } from 'react-native'
 import { connect } from 'react-redux'
-import {Header,Left,Body,Right,Container,Content,Footer, Text,Button} from 'native-base'
+import {Left,Body,Right,Container,Content,Footer, Text,Button,Card,CardItem,Header, Tab, Tabs, TabHeading} from 'native-base'
 // Add Actions - replace 'Your' with whatever your reducer is called :)
 // import YourActions from '../Redux/YourRedux'
 import {widthPercentageToDP as wp, heightPercentageToDP as hp} from 'react-native-responsive-screen';
@@ -57,34 +57,36 @@ class HomeScreen extends Component {
   render () {
     const rows = this.state.DISHES.map((value, index) => {
       return ( 
-        <TouchableOpacity style={{width:wp('85%'),height:hp('35%'), margin:30, borderRadius:25}}
-        onPress={()=>this.props.navigation.navigate('ClothsScreen')}>
-          <ImageBackground style={{flex:1,width:wp('85%'),height:hp('38%'),justifyContent:'center', alignContent:'center'}}  source={value.img} imageStyle={{ borderRadius: 25 }}>
-            <Text style={{color:'black',fontSize:30,marginLeft:50,marginRight:50, fontWeight:'bold'}}>{value.title}</Text>
-          </ImageBackground>
-        </TouchableOpacity>
+
+        <Card style={{flex:1,width:wp('90%'),  borderRadius:25,backgroundColor:'red',justifyContent:'center', alignContent:'center',alignSelf:'center'}}>
+          <CardItem style={{flex:1,borderRadius:25,backgroundColor:'gray',alignContent:'center',justifyContent:'center'}} >
+            {/* <Image style={{flex:1}}  source={value.img} imageStyle={{ borderRadius: 25 }} resizeMode='contain'/> */}
+            <Button transparent style={{flex:1, height:'100%',alignContent:'center',justifyContent:'center'}} onPress={()=>this.props.navigation.navigate('TabsSScreen')}>
+            <Text style={{color:'black',fontSize:hp('4%'),fontWeight:'bold'}}>{value.title}</Text>
+            </Button>
+          </CardItem>
+        </Card>
+        
+        
+        // <TouchableOpacity style={{width:wp('85%'),height:hp('35%'), margin:30, borderRadius:25}}
+        // onPress={()=>this.props.navigation.navigate('ClothsScreen')}>
+         
+        //   <ImageBackground style={{flex:1,width:wp('85%'),height:hp('38%'),justifyContent:'center', alignContent:'center'}}  source={value.img} imageStyle={{ borderRadius: 25 }}>
+        //    <Text style={{color:'black',fontSize:30,marginLeft:50,marginRight:50, fontWeight:'bold'}}>{value.title}</Text>
+        //   </ImageBackground>
+          
+        // </TouchableOpacity>
+        
       )
     })
 
     return (
       <Container style={{flex:1,backgroundColor:'#F5F5F5'}}>
-        <Header>
-          <Left style={{flex:1}}>
-            <Button full style={{flex:1,borderWidth:2,backgroundColor:this.state.buttonColorm, borderColor:'black',justifyContent:'center',borderRadius:10,marginRight:2}}
-            onPress={this.menButton}>
-              <Text style={{color:this.state.textColorm}}>MEN</Text>
-            </Button>
-          </Left>
-          <Right style={{flex:1}}>
-            <Button full style={{flex:1,backgroundColor:this.state.buttonColorw, borderWidth:2, borderColor:'black',justifyContent:'center',borderRadius:10,marginLeft:2}}
-            onPress={this.womenButton}>
-              <Text style={{color:this.state.textColorw}}>WOMEN</Text>
-            </Button>
-          </Right>
-        </Header>
-        <Content style={{flex:1,backgroundColor:'#F5F5F5'}}>
-        {rows}
-        </Content>
+
+          <View style={{flex:1,backgroundColor:'#F5F5F5'}}>
+              {rows}  
+          </View>
+
       </Container>
     )
   }
