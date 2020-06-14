@@ -1,0 +1,247 @@
+ [
+        {
+            "id": 1,
+            "question":"The vagus nerve innervates the  ",
+            "a":"Esophagus, stomach, pancrease, small intestine, large intestine ",
+            "b":"Esophagus, stomach, pancrease, upper large intestine",
+            "c":"Esophagus and stomach only",
+            "d":"Esophagus, stomach and pancrease only",
+            "answer":"B"
+        },
+        {
+            "id": 2,
+            "question":"Sympathetic Nervous system fibers originate in the spinal cord level b/w",
+            "a":"T7 - L1",
+            "b":"T8 - L2",
+            "c":"T9 - L3",
+            "d":"T10 - L5",
+            "answer":"C"
+        },
+        {
+            "id": 3,
+            "question":"TMotility of GI smooth muscles are primarily controlled by ",
+            "a":"Myenteric plexus ",
+            "b":"Meisenner plexus ",
+            "c":"Parasympathetic Nervous system",
+            "d":"Non of the above",
+            "answer":"A"
+        },
+        {
+            "id": 4,
+            "question":"The role of GIT hormone Cholecystokinin is to",
+            "a":"Stimulate contraction of Gallbladder and relaxation of sphincter oddi",
+            "b":"Increases pancreatic enzyme and HCO3 secretion",
+            "c":"Increase growth of exocrine pancrease/ Gallbladder and inhibits gastric emptying",
+            "d":"All of the above",
+            "answer":"D"
+        },
+        {
+            "id": 5,
+            "question":"Site of secretion of Gastrin is",
+            "a":"G cells of the stomach",
+            "b":"Gastric parietal cells",
+            "c":"both A and B",
+            "d":"Non of the above",
+            "answer":"A"
+        },
+        {
+            "id": 6,
+            "question":"what hormone inhibits the release of all GI hormones?",
+            "a":"Histamine",
+            "b":"somatostatin",
+            "c":"Motilin",
+            "d":"leptin",
+            "answer":"B"
+        },
+        {
+            "id": 7,
+            "question":"which one of the following substances is released from neurons in the GI tract and produces smooth muscle relaxation ?",
+            "a":"secretin",
+            "b":"Gastrin",
+            "c":"CCK",
+            "d":"Vasoactive intestinal peptide (VIP)",
+            "answer":"D"
+        },
+        {
+            "id": 8,
+            "question":"All of the following are neurocrines except",
+            "a":"Vasoactive intestinal peptide (VIP)",
+            "b":"Neuropeptide Y",
+            "c":"somatostatin",
+            "d":"GRP (bombesin)",
+            "answer":"C"
+        },
+        {
+            "id": 9,
+            "question":"The swallowing reflex is coordinated in the",
+            "a":"Pons",
+            "b":"medulla",
+            "c":"Cerebellum",
+            "d":"Cerebral cortex",
+            "answer":"B"
+        },
+        {
+            "id": 10,
+            "question":"what is the effect of CCK on gastric emptying?",
+            "a":"it inhibits gastric emptying ",
+            "b":"it stimulate gastric emptying",
+            "c":"It stopped gastric emptying",
+            "d":"No effects ",
+            "answer":"A"
+        },
+        {
+            "id": 11,
+            "question":"what is the site of secretion of intrinsic factor?",
+            "a":"Gastric antrum",
+            "b":"Duodenum",
+            "c":"ileum",
+            "d":"Gastric fundus",
+            "answer":"D"
+        },
+        {
+            "id": 12,
+            "question":"The oral medication used in the tratment of achalasia to relax lower Esophageal sphincter is",
+            "a":"Nitrates",
+            "b":"Calcium channel blockers",
+            "c":"Gabapentin",
+            "d":"Both A and B",
+            "answer":"D"
+        },
+        {
+            "id": 13,
+            "question":"what is the effect of Anti cholinergic drugs (Atropine) in the production of saliva ?",
+            "a":"it inhibits saliva production",
+            "b":"It stimulates saliva production",
+            "c":"Both A and B",
+            "d":"No effects",
+            "answer":"A"
+        },
+        {
+            "id": 14,
+            "question":"saliva production is",
+            "a":"increased by parasympathetic activity and decreased by sympathetic activity",
+            "b":"Decreased by parasympathetic activity and increased by sympathetic activity ",
+            "c":"Decreased by both sympathetic and parasympathetic activity",
+            "d":"Increased by both sympathetic and parasympathetic activity",
+            "answer":"D"
+        },
+        {
+            "id": 15,
+            "question":"The stimulus for secretion of pepsinogen from the chief cells is The stimulus for secretion of pepsinogen from the chief cells is The stimulus for secretion of pepsinogen from the chief cells is",
+            "a":"Gastrin",
+            "b":"Histamine",
+            "c":"small peptides",
+            "d":"vagal stimulation (Ach)",
+            "answer":"D"
+        },
+        {
+            "id": 16,
+            "question":"A major cause of gastric ulcers is",
+            "a":"Smoking",
+            "b":"Stress",
+            "c":"H. pylori",
+            "d":"NSAIDs",
+            "answer":"C"
+        },
+        {
+            "id": 17,
+            "question":"The Diagnostic test for H. pylori is",
+            "a":"Urea breath test",
+            "b":"Stool antigen test",
+            "c":"Blood test",
+            "d":"Endoscopy/Biopsy",
+            "answer":"A"
+        },
+        {
+            "id": 18,
+            "question":"pancreatic juice is characterized by",
+            "a":"Same Na+ and K+ concentration as plasma",
+            "b":"Much higher HCO3 concentration than plasma",
+            "c":"Much lower Cl- concentration than plasma",
+            "d":"All of the above",
+            "answer":"D"
+        },
+        {
+            "id": 19,
+            "question":"Cystic fibrosis is the disorder of pancreatic secretion results from the defect in",
+            "a":"Na+ channel",
+            "b":"K+ channel",
+            "c":"Cl- channel",
+            "d":"HCO3 - Cl channel",
+            "answer":"C"
+        },
+        {
+            "id": 20,
+            "question":"Abetalipoproteinemiais caused by the defecation of which type of apoprotein in the intestinal cells ,which results in the inability to transport chylomicrons out of intestinal cells?",
+            "a":"Apoprotein A",
+            "b":"Apoprotein B",
+            "c":"Apoprotein C",
+            "d":"Apoprotein D",
+            "answer":"B"
+        },
+        {
+            "id": 21,
+            "question":"The secretory mechanisms of electrolytes and H2O by intestines are located in the The secretory mechanisms of electrolytes and H2O by intestines are located in the",
+            "a":"villi",
+            "b":"Crypts",
+            "c":"large intestines",
+            "d":"Both A and B",
+            "answer":"B"
+        },
+        {
+            "id": 22,
+            "question":"Vibrio cholerae (cholera toxins ) Causes diarrhoea by stimulating secretions of",
+            "a":"K+",
+            "b":"Na+",
+            "c":"Cl-",
+            "d":"HCO3",
+            "answer":"C"
+        },
+        {
+            "id": 23,
+            "question":"Intrinsic factor secreted by parietal cells of stomach is required by which of the following vitamin to be absorbed in the ileum",
+            "a":"Vitamin B3",
+            "b":"Vitamin B6",
+            "c":"Vitamin B12",
+            "d":"Vitamin A",
+            "answer":"C"
+        },
+        {
+            "id": 24,
+            "question":"A 65 years old man undergoes Gastrectomy ,now he has chances to develop pernicious Anemia, What injection will be require for him to prevent this condition ?",
+            "a":"Inj Vitamin B6 ",
+            "b":"Inj sangobion",
+            "c":"inj Cholecalciferol",
+            "d":"inj Vitamin B12",
+            "answer":"D"
+        },
+        {
+            "id": 25,
+            "question":"Rickets in children and osteomalacia in adults is due to deficiency of",
+            "a":"Vitamin K",
+            "b":"Vitamin E",
+            "c":"Vitamin D",
+            "d":"Vitamin A",
+            "answer":"C"
+        },
+        {
+            "id": 26,
+            "question":"Calcium absorption in small intestine depends on presence of",
+            "a":"Inactive form of Vitamin D",
+            "b":"Active form of Vitamin D",
+            "c":"1,25 Dihydroxycholecalciferol",
+            "d":"Both B and C",
+            "answer":"D"
+        },
+        {
+            "id": 27,
+            "question":"Active form of vitamin D, 1,25 Dihydroxy cholecalciferol is produced in",
+            "a":"Lungs",
+            "b":"kidney",
+            "c":"Liver",
+            "d":"Intestinal cells of small intestine",
+            "answer":"B"
+        }
+    ]
+
+

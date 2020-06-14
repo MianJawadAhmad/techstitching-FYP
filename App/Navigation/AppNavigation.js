@@ -1,4 +1,9 @@
 import { createAppContainer } from 'react-navigation'
+import CongratsScreen from '../Containers/CongratsScreen'
+import CourseWiseScreen from '../Containers/CourseWiseScreen'
+import QuizTempScreen from '../Containers/QuizTempScreen'
+import CustomisQuizScreen from '../Containers/CustomisQuizScreen'
+import MainScreen from '../Containers/MainScreen'
 import PaymentScreen from '../Containers/PaymentScreen'
 import MeasurementScreen from '../Containers/MeasurementScreen'
 import FilterScreen from '../Containers/FilterScreen'
@@ -15,6 +20,11 @@ import styles from './Styles/NavigationStyles'
 
 // Manifest of possible screens
 const PrimaryNav = createStackNavigator({
+  CongratsScreen: { screen: CongratsScreen },
+  CourseWiseScreen: { screen: CourseWiseScreen },
+  QuizTempScreen: { screen: QuizTempScreen },
+  CustomisQuizScreen: { screen: CustomisQuizScreen },
+  MainScreen: { screen: MainScreen },
   PaymentScreen: { screen: PaymentScreen },
   MeasurementScreen: { screen: MeasurementScreen },
   FilterScreen: { screen: FilterScreen },
@@ -28,7 +38,7 @@ const PrimaryNav = createStackNavigator({
 }, {
   // Default config for all screens
   headerMode: 'none',
-  initialRouteName: 'TabsScreen',
+  initialRouteName: 'CustomisQuizScreen',
   navigationOptions: {
     headerStyle: styles.header
   }

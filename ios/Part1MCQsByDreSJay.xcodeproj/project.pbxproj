@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		00E356F31AD99517003FC87E /* techstitchingTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* techstitchingTests.m */; };
+		00E356F31AD99517003FC87E /* Part1MCQsByDreSJayTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* Part1MCQsByDreSJayTests.m */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB11A68108700A75B9A /* LaunchScreen.xib */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
@@ -15,11 +15,11 @@
 		2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		2DCD954D1E0B4F2C00145EB5 /* techstitchingTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* techstitchingTests.m */; };
-		8C2019400BE922C4C693AFDE /* libPods-techstitching.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D55A95E2100D89472AAC2212 /* libPods-techstitching.a */; };
-		AD372F4FD030C7CD7AA86ACD /* libPods-techstitching-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 9025AAFCC9D4C313899C267E /* libPods-techstitching-tvOSTests.a */; };
-		CDD05112EF61B4CB2A34DF11 /* libPods-techstitching-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 275AFA9882AE400B481AC531 /* libPods-techstitching-tvOS.a */; };
-		DD9874D6CBC71595078C0103 /* libPods-techstitchingTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7EBE73B49B09609F3E95D50D /* libPods-techstitchingTests.a */; };
+		2DCD954D1E0B4F2C00145EB5 /* Part1MCQsByDreSJayTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* Part1MCQsByDreSJayTests.m */; };
+		8C2019400BE922C4C693AFDE /* libPods-Part1MCQsByDreSJay.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D55A95E2100D89472AAC2212 /* libPods-Part1MCQsByDreSJay.a */; };
+		AD372F4FD030C7CD7AA86ACD /* libPods-Part1MCQsByDreSJay-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 9025AAFCC9D4C313899C267E /* libPods-Part1MCQsByDreSJay-tvOSTests.a */; };
+		CDD05112EF61B4CB2A34DF11 /* libPods-Part1MCQsByDreSJay-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 275AFA9882AE400B481AC531 /* libPods-Part1MCQsByDreSJay-tvOS.a */; };
+		DD9874D6CBC71595078C0103 /* libPods-Part1MCQsByDreSJayTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7EBE73B49B09609F3E95D50D /* libPods-Part1MCQsByDreSJayTests.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -28,43 +28,43 @@
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 13B07F861A680F5B00A75B9A;
-			remoteInfo = techstitching;
+			remoteInfo = Part1MCQsByDreSJay;
 		};
 		2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 2D02E47A1E0B4A5D006451C7;
-			remoteInfo = "techstitching-tvOS";
+			remoteInfo = "Part1MCQsByDreSJay-tvOS";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		008F07F21AC5B25A0029DE68 /* main.jsbundle */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = main.jsbundle; sourceTree = "<group>"; };
-		00E356EE1AD99517003FC87E /* techstitchingTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = techstitchingTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		00E356EE1AD99517003FC87E /* Part1MCQsByDreSJayTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Part1MCQsByDreSJayTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		00E356F21AD99517003FC87E /* techstitchingTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = techstitchingTests.m; sourceTree = "<group>"; };
-		09F7BFDC9999C2351B43504A /* Pods-techstitching-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-techstitching-tvOS.release.xcconfig"; path = "Target Support Files/Pods-techstitching-tvOS/Pods-techstitching-tvOS.release.xcconfig"; sourceTree = "<group>"; };
-		13B07F961A680F5B00A75B9A /* techstitching.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = techstitching.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = techstitching/AppDelegate.h; sourceTree = "<group>"; };
-		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = techstitching/AppDelegate.m; sourceTree = "<group>"; };
+		00E356F21AD99517003FC87E /* Part1MCQsByDreSJayTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Part1MCQsByDreSJayTests.m; sourceTree = "<group>"; };
+		09F7BFDC9999C2351B43504A /* Pods-Part1MCQsByDreSJay-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Part1MCQsByDreSJay-tvOS.release.xcconfig"; path = "Target Support Files/Pods-Part1MCQsByDreSJay-tvOS/Pods-Part1MCQsByDreSJay-tvOS.release.xcconfig"; sourceTree = "<group>"; };
+		13B07F961A680F5B00A75B9A /* Part1MCQsByDreSJay.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Part1MCQsByDreSJay.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = Part1MCQsByDreSJay/AppDelegate.h; sourceTree = "<group>"; };
+		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = Part1MCQsByDreSJay/AppDelegate.m; sourceTree = "<group>"; };
 		13B07FB21A68108700A75B9A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
-		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = techstitching/Images.xcassets; sourceTree = "<group>"; };
-		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = techstitching/Info.plist; sourceTree = "<group>"; };
-		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = techstitching/main.m; sourceTree = "<group>"; };
-		275AFA9882AE400B481AC531 /* libPods-techstitching-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-techstitching-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		2D02E47B1E0B4A5D006451C7 /* techstitching-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "techstitching-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		2D02E4901E0B4A5D006451C7 /* techstitching-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "techstitching-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		47DCB5FC7C8C110A5DAA62F3 /* Pods-techstitching-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-techstitching-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-techstitching-tvOS/Pods-techstitching-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
-		49B13CE042B919CA51D40C83 /* Pods-techstitching-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-techstitching-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-techstitching-tvOSTests/Pods-techstitching-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
-		64F0018BD4018CC380D6B348 /* Pods-techstitchingTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-techstitchingTests.debug.xcconfig"; path = "Target Support Files/Pods-techstitchingTests/Pods-techstitchingTests.debug.xcconfig"; sourceTree = "<group>"; };
-		7EBE73B49B09609F3E95D50D /* libPods-techstitchingTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-techstitchingTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		7F206CB8CC343C5EEF0AEA36 /* Pods-techstitching.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-techstitching.release.xcconfig"; path = "Target Support Files/Pods-techstitching/Pods-techstitching.release.xcconfig"; sourceTree = "<group>"; };
-		9025AAFCC9D4C313899C267E /* libPods-techstitching-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-techstitching-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		A183859CB09755E77FFE730D /* Pods-techstitchingTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-techstitchingTests.release.xcconfig"; path = "Target Support Files/Pods-techstitchingTests/Pods-techstitchingTests.release.xcconfig"; sourceTree = "<group>"; };
-		CF8585CC45FA1F643ECE3096 /* Pods-techstitching.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-techstitching.debug.xcconfig"; path = "Target Support Files/Pods-techstitching/Pods-techstitching.debug.xcconfig"; sourceTree = "<group>"; };
-		D55A95E2100D89472AAC2212 /* libPods-techstitching.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-techstitching.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		EC4794E73185BF6D5919B9AF /* Pods-techstitching-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-techstitching-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-techstitching-tvOSTests/Pods-techstitching-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
+		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = Part1MCQsByDreSJay/Images.xcassets; sourceTree = "<group>"; };
+		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = Part1MCQsByDreSJay/Info.plist; sourceTree = "<group>"; };
+		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = Part1MCQsByDreSJay/main.m; sourceTree = "<group>"; };
+		275AFA9882AE400B481AC531 /* libPods-Part1MCQsByDreSJay-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Part1MCQsByDreSJay-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2D02E47B1E0B4A5D006451C7 /* Part1MCQsByDreSJay-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Part1MCQsByDreSJay-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2D02E4901E0B4A5D006451C7 /* Part1MCQsByDreSJay-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Part1MCQsByDreSJay-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		47DCB5FC7C8C110A5DAA62F3 /* Pods-Part1MCQsByDreSJay-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Part1MCQsByDreSJay-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-Part1MCQsByDreSJay-tvOS/Pods-Part1MCQsByDreSJay-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
+		49B13CE042B919CA51D40C83 /* Pods-Part1MCQsByDreSJay-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Part1MCQsByDreSJay-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-Part1MCQsByDreSJay-tvOSTests/Pods-Part1MCQsByDreSJay-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
+		64F0018BD4018CC380D6B348 /* Pods-Part1MCQsByDreSJayTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Part1MCQsByDreSJayTests.debug.xcconfig"; path = "Target Support Files/Pods-Part1MCQsByDreSJayTests/Pods-Part1MCQsByDreSJayTests.debug.xcconfig"; sourceTree = "<group>"; };
+		7EBE73B49B09609F3E95D50D /* libPods-Part1MCQsByDreSJayTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Part1MCQsByDreSJayTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		7F206CB8CC343C5EEF0AEA36 /* Pods-Part1MCQsByDreSJay.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Part1MCQsByDreSJay.release.xcconfig"; path = "Target Support Files/Pods-Part1MCQsByDreSJay/Pods-Part1MCQsByDreSJay.release.xcconfig"; sourceTree = "<group>"; };
+		9025AAFCC9D4C313899C267E /* libPods-Part1MCQsByDreSJay-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Part1MCQsByDreSJay-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A183859CB09755E77FFE730D /* Pods-Part1MCQsByDreSJayTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Part1MCQsByDreSJayTests.release.xcconfig"; path = "Target Support Files/Pods-Part1MCQsByDreSJayTests/Pods-Part1MCQsByDreSJayTests.release.xcconfig"; sourceTree = "<group>"; };
+		CF8585CC45FA1F643ECE3096 /* Pods-Part1MCQsByDreSJay.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Part1MCQsByDreSJay.debug.xcconfig"; path = "Target Support Files/Pods-Part1MCQsByDreSJay/Pods-Part1MCQsByDreSJay.debug.xcconfig"; sourceTree = "<group>"; };
+		D55A95E2100D89472AAC2212 /* libPods-Part1MCQsByDreSJay.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Part1MCQsByDreSJay.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EC4794E73185BF6D5919B9AF /* Pods-Part1MCQsByDreSJay-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Part1MCQsByDreSJay-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-Part1MCQsByDreSJay-tvOSTests/Pods-Part1MCQsByDreSJay-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
 /* End PBXFileReference section */
@@ -74,7 +74,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DD9874D6CBC71595078C0103 /* libPods-techstitchingTests.a in Frameworks */,
+				DD9874D6CBC71595078C0103 /* libPods-Part1MCQsByDreSJayTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -82,7 +82,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8C2019400BE922C4C693AFDE /* libPods-techstitching.a in Frameworks */,
+				8C2019400BE922C4C693AFDE /* libPods-Part1MCQsByDreSJay.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -90,7 +90,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CDD05112EF61B4CB2A34DF11 /* libPods-techstitching-tvOS.a in Frameworks */,
+				CDD05112EF61B4CB2A34DF11 /* libPods-Part1MCQsByDreSJay-tvOS.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -98,20 +98,20 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AD372F4FD030C7CD7AA86ACD /* libPods-techstitching-tvOSTests.a in Frameworks */,
+				AD372F4FD030C7CD7AA86ACD /* libPods-Part1MCQsByDreSJay-tvOSTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		00E356EF1AD99517003FC87E /* techstitchingTests */ = {
+		00E356EF1AD99517003FC87E /* Part1MCQsByDreSJayTests */ = {
 			isa = PBXGroup;
 			children = (
-				00E356F21AD99517003FC87E /* techstitchingTests.m */,
+				00E356F21AD99517003FC87E /* Part1MCQsByDreSJayTests.m */,
 				00E356F01AD99517003FC87E /* Supporting Files */,
 			);
-			path = techstitchingTests;
+			path = Part1MCQsByDreSJayTests;
 			sourceTree = "<group>";
 		};
 		00E356F01AD99517003FC87E /* Supporting Files */ = {
@@ -122,7 +122,7 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		13B07FAE1A68108700A75B9A /* techstitching */ = {
+		13B07FAE1A68108700A75B9A /* Part1MCQsByDreSJay */ = {
 			isa = PBXGroup;
 			children = (
 				008F07F21AC5B25A0029DE68 /* main.jsbundle */,
@@ -133,7 +133,7 @@
 				13B07FB11A68108700A75B9A /* LaunchScreen.xib */,
 				13B07FB71A68108700A75B9A /* main.m */,
 			);
-			name = techstitching;
+			name = Part1MCQsByDreSJay;
 			sourceTree = "<group>";
 		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
@@ -141,10 +141,10 @@
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
 				ED2971642150620600B7C4FE /* JavaScriptCore.framework */,
-				D55A95E2100D89472AAC2212 /* libPods-techstitching.a */,
-				275AFA9882AE400B481AC531 /* libPods-techstitching-tvOS.a */,
-				9025AAFCC9D4C313899C267E /* libPods-techstitching-tvOSTests.a */,
-				7EBE73B49B09609F3E95D50D /* libPods-techstitchingTests.a */,
+				D55A95E2100D89472AAC2212 /* libPods-Part1MCQsByDreSJay.a */,
+				275AFA9882AE400B481AC531 /* libPods-Part1MCQsByDreSJay-tvOS.a */,
+				9025AAFCC9D4C313899C267E /* libPods-Part1MCQsByDreSJay-tvOSTests.a */,
+				7EBE73B49B09609F3E95D50D /* libPods-Part1MCQsByDreSJayTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -166,9 +166,9 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
-				13B07FAE1A68108700A75B9A /* techstitching */,
+				13B07FAE1A68108700A75B9A /* Part1MCQsByDreSJay */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
-				00E356EF1AD99517003FC87E /* techstitchingTests */,
+				00E356EF1AD99517003FC87E /* Part1MCQsByDreSJayTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				EC735478971A856A41AC96A2 /* Pods */,
@@ -182,10 +182,10 @@
 		83CBBA001A601CBA00E9B192 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				13B07F961A680F5B00A75B9A /* techstitching.app */,
-				00E356EE1AD99517003FC87E /* techstitchingTests.xctest */,
-				2D02E47B1E0B4A5D006451C7 /* techstitching-tvOS.app */,
-				2D02E4901E0B4A5D006451C7 /* techstitching-tvOSTests.xctest */,
+				13B07F961A680F5B00A75B9A /* Part1MCQsByDreSJay.app */,
+				00E356EE1AD99517003FC87E /* Part1MCQsByDreSJayTests.xctest */,
+				2D02E47B1E0B4A5D006451C7 /* Part1MCQsByDreSJay-tvOS.app */,
+				2D02E4901E0B4A5D006451C7 /* Part1MCQsByDreSJay-tvOSTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -193,14 +193,14 @@
 		EC735478971A856A41AC96A2 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				CF8585CC45FA1F643ECE3096 /* Pods-techstitching.debug.xcconfig */,
-				7F206CB8CC343C5EEF0AEA36 /* Pods-techstitching.release.xcconfig */,
-				47DCB5FC7C8C110A5DAA62F3 /* Pods-techstitching-tvOS.debug.xcconfig */,
-				09F7BFDC9999C2351B43504A /* Pods-techstitching-tvOS.release.xcconfig */,
-				EC4794E73185BF6D5919B9AF /* Pods-techstitching-tvOSTests.debug.xcconfig */,
-				49B13CE042B919CA51D40C83 /* Pods-techstitching-tvOSTests.release.xcconfig */,
-				64F0018BD4018CC380D6B348 /* Pods-techstitchingTests.debug.xcconfig */,
-				A183859CB09755E77FFE730D /* Pods-techstitchingTests.release.xcconfig */,
+				CF8585CC45FA1F643ECE3096 /* Pods-Part1MCQsByDreSJay.debug.xcconfig */,
+				7F206CB8CC343C5EEF0AEA36 /* Pods-Part1MCQsByDreSJay.release.xcconfig */,
+				47DCB5FC7C8C110A5DAA62F3 /* Pods-Part1MCQsByDreSJay-tvOS.debug.xcconfig */,
+				09F7BFDC9999C2351B43504A /* Pods-Part1MCQsByDreSJay-tvOS.release.xcconfig */,
+				EC4794E73185BF6D5919B9AF /* Pods-Part1MCQsByDreSJay-tvOSTests.debug.xcconfig */,
+				49B13CE042B919CA51D40C83 /* Pods-Part1MCQsByDreSJay-tvOSTests.release.xcconfig */,
+				64F0018BD4018CC380D6B348 /* Pods-Part1MCQsByDreSJayTests.debug.xcconfig */,
+				A183859CB09755E77FFE730D /* Pods-Part1MCQsByDreSJayTests.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -208,9 +208,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		00E356ED1AD99517003FC87E /* techstitchingTests */ = {
+		00E356ED1AD99517003FC87E /* Part1MCQsByDreSJayTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "techstitchingTests" */;
+			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "Part1MCQsByDreSJayTests" */;
 			buildPhases = (
 				D782DA51E73F1498C207D5E0 /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
@@ -222,14 +222,14 @@
 			dependencies = (
 				00E356F51AD99517003FC87E /* PBXTargetDependency */,
 			);
-			name = techstitchingTests;
-			productName = techstitchingTests;
-			productReference = 00E356EE1AD99517003FC87E /* techstitchingTests.xctest */;
+			name = Part1MCQsByDreSJayTests;
+			productName = Part1MCQsByDreSJayTests;
+			productReference = 00E356EE1AD99517003FC87E /* Part1MCQsByDreSJayTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		13B07F861A680F5B00A75B9A /* techstitching */ = {
+		13B07F861A680F5B00A75B9A /* Part1MCQsByDreSJay */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "techstitching" */;
+			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "Part1MCQsByDreSJay" */;
 			buildPhases = (
 				2A9378682F351EBB64520F5A /* [CP] Check Pods Manifest.lock */,
 				FD10A7F022414F080027D42C /* Start Packager */,
@@ -243,14 +243,14 @@
 			);
 			dependencies = (
 			);
-			name = techstitching;
-			productName = techstitching;
-			productReference = 13B07F961A680F5B00A75B9A /* techstitching.app */;
+			name = Part1MCQsByDreSJay;
+			productName = Part1MCQsByDreSJay;
+			productReference = 13B07F961A680F5B00A75B9A /* Part1MCQsByDreSJay.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2D02E47A1E0B4A5D006451C7 /* techstitching-tvOS */ = {
+		2D02E47A1E0B4A5D006451C7 /* Part1MCQsByDreSJay-tvOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "techstitching-tvOS" */;
+			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "Part1MCQsByDreSJay-tvOS" */;
 			buildPhases = (
 				A31B74607FCD01C4C088137C /* [CP] Check Pods Manifest.lock */,
 				FD10A7F122414F3F0027D42C /* Start Packager */,
@@ -263,14 +263,14 @@
 			);
 			dependencies = (
 			);
-			name = "techstitching-tvOS";
-			productName = "techstitching-tvOS";
-			productReference = 2D02E47B1E0B4A5D006451C7 /* techstitching-tvOS.app */;
+			name = "Part1MCQsByDreSJay-tvOS";
+			productName = "Part1MCQsByDreSJay-tvOS";
+			productReference = 2D02E47B1E0B4A5D006451C7 /* Part1MCQsByDreSJay-tvOS.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2D02E48F1E0B4A5D006451C7 /* techstitching-tvOSTests */ = {
+		2D02E48F1E0B4A5D006451C7 /* Part1MCQsByDreSJay-tvOSTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "techstitching-tvOSTests" */;
+			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "Part1MCQsByDreSJay-tvOSTests" */;
 			buildPhases = (
 				1EE34DDA6379CBB3CA79FCFE /* [CP] Check Pods Manifest.lock */,
 				2D02E48C1E0B4A5D006451C7 /* Sources */,
@@ -282,9 +282,9 @@
 			dependencies = (
 				2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */,
 			);
-			name = "techstitching-tvOSTests";
-			productName = "techstitching-tvOSTests";
-			productReference = 2D02E4901E0B4A5D006451C7 /* techstitching-tvOSTests.xctest */;
+			name = "Part1MCQsByDreSJay-tvOSTests";
+			productName = "Part1MCQsByDreSJay-tvOSTests";
+			productReference = 2D02E4901E0B4A5D006451C7 /* Part1MCQsByDreSJay-tvOSTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -317,7 +317,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "techstitching" */;
+			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "Part1MCQsByDreSJay" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -331,10 +331,10 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				13B07F861A680F5B00A75B9A /* techstitching */,
-				00E356ED1AD99517003FC87E /* techstitchingTests */,
-				2D02E47A1E0B4A5D006451C7 /* techstitching-tvOS */,
-				2D02E48F1E0B4A5D006451C7 /* techstitching-tvOSTests */,
+				13B07F861A680F5B00A75B9A /* Part1MCQsByDreSJay */,
+				00E356ED1AD99517003FC87E /* Part1MCQsByDreSJayTests */,
+				2D02E47A1E0B4A5D006451C7 /* Part1MCQsByDreSJay-tvOS */,
+				2D02E48F1E0B4A5D006451C7 /* Part1MCQsByDreSJay-tvOSTests */,
 			);
 		};
 /* End PBXProject section */
@@ -403,7 +403,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-techstitching-tvOSTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-Part1MCQsByDreSJay-tvOSTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -425,7 +425,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-techstitching-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-Part1MCQsByDreSJay-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -461,7 +461,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-techstitching-tvOS-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-Part1MCQsByDreSJay-tvOS-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -483,7 +483,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-techstitchingTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-Part1MCQsByDreSJayTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -496,7 +496,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-techstitching/Pods-techstitching-resources.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-Part1MCQsByDreSJay/Pods-Part1MCQsByDreSJay-resources.sh",
 				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf",
 				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Entypo.ttf",
 				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf",
@@ -535,7 +535,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-techstitching/Pods-techstitching-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Part1MCQsByDreSJay/Pods-Part1MCQsByDreSJay-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		FD10A7F022414F080027D42C /* Start Packager */ = {
@@ -583,7 +583,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				00E356F31AD99517003FC87E /* techstitchingTests.m in Sources */,
+				00E356F31AD99517003FC87E /* Part1MCQsByDreSJayTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -609,7 +609,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2DCD954D1E0B4F2C00145EB5 /* techstitchingTests.m in Sources */,
+				2DCD954D1E0B4F2C00145EB5 /* Part1MCQsByDreSJayTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -618,12 +618,12 @@
 /* Begin PBXTargetDependency section */
 		00E356F51AD99517003FC87E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 13B07F861A680F5B00A75B9A /* techstitching */;
+			target = 13B07F861A680F5B00A75B9A /* Part1MCQsByDreSJay */;
 			targetProxy = 00E356F41AD99517003FC87E /* PBXContainerItemProxy */;
 		};
 		2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 2D02E47A1E0B4A5D006451C7 /* techstitching-tvOS */;
+			target = 2D02E47A1E0B4A5D006451C7 /* Part1MCQsByDreSJay-tvOS */;
 			targetProxy = 2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -635,7 +635,7 @@
 				13B07FB21A68108700A75B9A /* Base */,
 			);
 			name = LaunchScreen.xib;
-			path = techstitching;
+			path = Part1MCQsByDreSJay;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -643,7 +643,7 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 64F0018BD4018CC380D6B348 /* Pods-techstitchingTests.debug.xcconfig */;
+			baseConfigurationReference = 64F0018BD4018CC380D6B348 /* Pods-Part1MCQsByDreSJayTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				DEVELOPMENT_TEAM = R6FTH4858Q;
@@ -651,7 +651,7 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = techstitchingTests/Info.plist;
+				INFOPLIST_FILE = Part1MCQsByDreSJayTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -661,18 +661,18 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/techstitching.app/techstitching";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Part1MCQsByDreSJay.app/Part1MCQsByDreSJay";
 			};
 			name = Debug;
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = A183859CB09755E77FFE730D /* Pods-techstitchingTests.release.xcconfig */;
+			baseConfigurationReference = A183859CB09755E77FFE730D /* Pods-Part1MCQsByDreSJayTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
 				DEVELOPMENT_TEAM = R6FTH4858Q;
-				INFOPLIST_FILE = techstitchingTests/Info.plist;
+				INFOPLIST_FILE = Part1MCQsByDreSJayTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -682,19 +682,19 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/techstitching.app/techstitching";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Part1MCQsByDreSJay.app/Part1MCQsByDreSJay";
 			};
 			name = Release;
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = CF8585CC45FA1F643ECE3096 /* Pods-techstitching.debug.xcconfig */;
+			baseConfigurationReference = CF8585CC45FA1F643ECE3096 /* Pods-Part1MCQsByDreSJay.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = NO;
 				DEVELOPMENT_TEAM = R6FTH4858Q;
-				INFOPLIST_FILE = techstitching/Info.plist;
+				INFOPLIST_FILE = Part1MCQsByDreSJay/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
@@ -702,19 +702,19 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = techstitching;
+				PRODUCT_NAME = Part1MCQsByDreSJay;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Debug;
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 7F206CB8CC343C5EEF0AEA36 /* Pods-techstitching.release.xcconfig */;
+			baseConfigurationReference = 7F206CB8CC343C5EEF0AEA36 /* Pods-Part1MCQsByDreSJay.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = R6FTH4858Q;
-				INFOPLIST_FILE = techstitching/Info.plist;
+				INFOPLIST_FILE = Part1MCQsByDreSJay/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
@@ -722,14 +722,14 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = techstitching;
+				PRODUCT_NAME = Part1MCQsByDreSJay;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Release;
 		};
 		2D02E4971E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 47DCB5FC7C8C110A5DAA62F3 /* Pods-techstitching-tvOS.debug.xcconfig */;
+			baseConfigurationReference = 47DCB5FC7C8C110A5DAA62F3 /* Pods-Part1MCQsByDreSJay-tvOS.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -741,14 +741,14 @@
 				DEVELOPMENT_TEAM = R6FTH4858Q;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "techstitching-tvOS/Info.plist";
+				INFOPLIST_FILE = "Part1MCQsByDreSJay-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.techstitching-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.Part1MCQsByDreSJay-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -758,7 +758,7 @@
 		};
 		2D02E4981E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 09F7BFDC9999C2351B43504A /* Pods-techstitching-tvOS.release.xcconfig */;
+			baseConfigurationReference = 09F7BFDC9999C2351B43504A /* Pods-Part1MCQsByDreSJay-tvOS.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -770,14 +770,14 @@
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				DEVELOPMENT_TEAM = R6FTH4858Q;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "techstitching-tvOS/Info.plist";
+				INFOPLIST_FILE = "Part1MCQsByDreSJay-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.techstitching-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.Part1MCQsByDreSJay-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -787,7 +787,7 @@
 		};
 		2D02E4991E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = EC4794E73185BF6D5919B9AF /* Pods-techstitching-tvOSTests.debug.xcconfig */;
+			baseConfigurationReference = EC4794E73185BF6D5919B9AF /* Pods-Part1MCQsByDreSJay-tvOSTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -798,24 +798,24 @@
 				DEVELOPMENT_TEAM = R6FTH4858Q;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "techstitching-tvOSTests/Info.plist";
+				INFOPLIST_FILE = "Part1MCQsByDreSJay-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.techstitching-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.Part1MCQsByDreSJay-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/techstitching-tvOS.app/techstitching-tvOS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Part1MCQsByDreSJay-tvOS.app/Part1MCQsByDreSJay-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Debug;
 		};
 		2D02E49A1E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 49B13CE042B919CA51D40C83 /* Pods-techstitching-tvOSTests.release.xcconfig */;
+			baseConfigurationReference = 49B13CE042B919CA51D40C83 /* Pods-Part1MCQsByDreSJay-tvOSTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -826,17 +826,17 @@
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				DEVELOPMENT_TEAM = R6FTH4858Q;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "techstitching-tvOSTests/Info.plist";
+				INFOPLIST_FILE = "Part1MCQsByDreSJay-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.techstitching-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.Part1MCQsByDreSJay-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/techstitching-tvOS.app/techstitching-tvOS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Part1MCQsByDreSJay-tvOS.app/Part1MCQsByDreSJay-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Release;
@@ -943,7 +943,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "techstitchingTests" */ = {
+		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "Part1MCQsByDreSJayTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				00E356F61AD99517003FC87E /* Debug */,
@@ -952,7 +952,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "techstitching" */ = {
+		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "Part1MCQsByDreSJay" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				13B07F941A680F5B00A75B9A /* Debug */,
@@ -961,7 +961,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "techstitching-tvOS" */ = {
+		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "Part1MCQsByDreSJay-tvOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D02E4971E0B4A5E006451C7 /* Debug */,
@@ -970,7 +970,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "techstitching-tvOSTests" */ = {
+		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "Part1MCQsByDreSJay-tvOSTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D02E4991E0B4A5E006451C7 /* Debug */,
@@ -979,7 +979,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "techstitching" */ = {
+		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "Part1MCQsByDreSJay" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				83CBBA201A601CBA00E9B192 /* Debug */,

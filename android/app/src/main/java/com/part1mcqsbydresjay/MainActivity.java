@@ -1,4 +1,4 @@
-package com.techstitching;
+package com.part1mcqsbydresjay;
 
 import com.facebook.react.ReactActivity;
 
@@ -24,6 +24,6 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "techstitching";
+    return "Part1MCQsByDreSJay";
   }
 }

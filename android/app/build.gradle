@@ -128,7 +128,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.techstitching"
+        applicationId "com.part1mcqsbydresjay"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

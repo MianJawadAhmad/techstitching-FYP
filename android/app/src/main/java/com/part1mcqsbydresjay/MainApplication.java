@@ -1,4 +1,4 @@
-package com.techstitching;
+package com.part1mcqsbydresjay;
 
 import android.app.Application;
 import android.content.Context;
